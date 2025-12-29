@@ -1,0 +1,18 @@
+===== Calculator Menu =====
+1. Addition
+2. Subtraction
+3. Multiplication
+4. Division
+5. Exit
+Choose an operation: 4
+Enter first number: 10
+Enter second number: 0
+Error: Division by zero is not allowed.
+
+===== Calculator Menu =====
+Choose an operation: 1
+Enter first number: 5
+Enter second number: 7
+Result: 12.0
+
+Calculator exited successfully.
