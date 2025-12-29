@@ -1,0 +1,6 @@
+=== Temperature Converter ===
+1. Celsius to Fahrenheit
+2. Fahrenheit to Celsius
+Choose conversion type: 1
+Enter temperature in Celsius: 25
+Result: 77.0 °F
