@@ -1,0 +1,26 @@
+=== To-Do List Menu ===
+1. Add Task
+2. Mark Task as Completed
+3. View Tasks
+4. Exit
+Choose an option: 1
+Enter task title: Complete Java assignment
+Task added successfully!
+
+=== To-Do List Menu ===
+Choose an option: 3
+
+--- Your Tasks ---
+1. [ ] Complete Java assignment
+
+=== To-Do List Menu ===
+Choose an option: 2
+Select task number to mark completed:
+1. [ ] Complete Java assignment
+Task marked as completed!
+
+=== To-Do List Menu ===
+Choose an option: 3
+
+--- Your Tasks ---
+1. [✔] Complete Java assignment
