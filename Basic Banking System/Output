@@ -1,0 +1,41 @@
+===== BASIC BANKING SYSTEM =====
+1. Deposit
+2. Withdraw
+3. Check Balance
+4. Exit
+Enter your choice: 1
+Enter deposit amount: 500
+Deposit successful.
+
+===== BASIC BANKING SYSTEM =====
+1. Deposit
+2. Withdraw
+3. Check Balance
+4. Exit
+Enter your choice: 3
+Current Balance: 1500.0
+
+===== BASIC BANKING SYSTEM =====
+1. Deposit
+2. Withdraw
+3. Check Balance
+4. Exit
+Enter your choice: 2
+Enter withdrawal amount: 300
+Withdrawal successful.
+
+===== BASIC BANKING SYSTEM =====
+1. Deposit
+2. Withdraw
+3. Check Balance
+4. Exit
+Enter your choice: 3
+Current Balance: 1200.0
+
+===== BASIC BANKING SYSTEM =====
+1. Deposit
+2. Withdraw
+3. Check Balance
+4. Exit
+Enter your choice: 4
+Thank you for using the banking system.
